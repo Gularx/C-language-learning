@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/software/CLionProjects/Clanguage/Test/test1.c
+test1.h
+D:/software/CLionProjects/Clanguage/Test/test1.h
+
+D:/software/CLionProjects/Clanguage/Test/test1.h
+

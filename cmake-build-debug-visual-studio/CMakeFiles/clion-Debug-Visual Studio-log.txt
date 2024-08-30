@@ -1,0 +1,4 @@
+"D:\software\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" -S D:\software\CLionProjects\Clanguage -B D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio
+-- Configuring done (0.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio

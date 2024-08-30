@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ime"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 01"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 01/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 02"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 02/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/03.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 03"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/03.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 03/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/04.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 04"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/04.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 04/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="05">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/05.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 05"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="05/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/05.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 05/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="06">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/06.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 06"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="06/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/06.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 06/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="07">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/07.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 07"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="07/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/07.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 07/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="year">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/year.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 year"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="year/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/year.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 year/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="home">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/home.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 home"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="home/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/home.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 home/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="08">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/08.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 08"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="08/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/08.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 08/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="09">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/09.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 09"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="09/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/09.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 09/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="10">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 10"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="10/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 10/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/11.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 11"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/11.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 11/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/12.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 12"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/12.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 12/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="13">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/13.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 13"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="13/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/13.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 13/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="14">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/14.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 14"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="14/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/14.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 14/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_3">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/Test_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 Test_3"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_3/fast">
+				<Option output="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio/Test_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="D:/software/CLionProjects/Clanguage/08"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/09"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/10"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/11"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/12"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/13"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/14"/>
+					<Add directory="D:/software/CLionProjects/Clanguage/Test_1"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include"/>
+					<Add directory="D:\software\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 Test_3/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/software/CLionProjects/Clanguage/cmake-build-debug-visual-studio"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\software\CLionProjects\Clanguage\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/software/CLionProjects/Clanguage/00/01.c">
+			<Option target="01"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/00/02.c">
+			<Option target="02"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/00/03.c">
+			<Option target="03"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/00/04.c">
+			<Option target="04"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/00/05.c">
+			<Option target="05"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/00/06.c">
+			<Option target="06"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/00/07.c">
+			<Option target="07"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/00/homework.c">
+			<Option target="home"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/00/year.c">
+			<Option target="year"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/08/App.c">
+			<Option target="08"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/08/CalcHour.c">
+			<Option target="08"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/08/CalcHour.h">
+			<Option target="08"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/08/CalcMin.c">
+			<Option target="08"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/08/CalcMin.h">
+			<Option target="08"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/08/CalcSec.c">
+			<Option target="08"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/08/CalcSec.h">
+			<Option target="08"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/08/基于多文件的秒值-时间值转换.png">
+			<Option target="08"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/09/App.c">
+			<Option target="09"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/09/CalcHour.c">
+			<Option target="09"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/09/CalcHour.h">
+			<Option target="09"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/09/CalcMin.c">
+			<Option target="09"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/09/CalcMin.h">
+			<Option target="09"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/09/CalcSec.c">
+			<Option target="09"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/09/CalcSec.h">
+			<Option target="09"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/09/CalcTime.c">
+			<Option target="09"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/09/CalcTime.h">
+			<Option target="09"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/09/Tick.c">
+			<Option target="09"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/09/Tick.h">
+			<Option target="09"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/09/基于多媒体定时器的电子钟设计.png">
+			<Option target="09"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/10/App.c">
+			<Option target="10"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/10/DataType.h">
+			<Option target="10"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/10/RunClock.c">
+			<Option target="10"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/10/RunClock.h">
+			<Option target="10"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/10/电子钟的API设计与应用.png">
+			<Option target="10"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/11/App.c">
+			<Option target="11"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/11/DataType.h">
+			<Option target="11"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/11/Queue.c">
+			<Option target="11"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/11/Queue.h">
+			<Option target="11"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/12/App.c">
+			<Option target="12"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/12/DataType.h">
+			<Option target="12"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/12/PackUnpack.c">
+			<Option target="12"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/12/PackUnpack.h">
+			<Option target="12"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/12/协议处理的API设计与应用1.png">
+			<Option target="12"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/12/协议处理的API设计与应用2.png">
+			<Option target="12"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/13/App.c">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/13/DataType.h">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/13/PackUnpack.c">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/13/PackUnpack.h">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/13/ProcHostCmd.c">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/13/ProcHostCmd.h">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/13/SendDataToHost.c">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/13/SendDataToHost.h">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/13/模拟从机命令接收与数据发送1.png">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/13/模拟从机命令接收与数据发送2.png">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/13/模拟从机命令接收与数据发送3.png">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/13/模拟从机命令接收与数据发送4.png">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/14/App.c">
+			<Option target="14"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/14/DataType.h">
+			<Option target="14"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/14/PackUnpack.c">
+			<Option target="14"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/14/PackUnpack.h">
+			<Option target="14"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/14/ProcMCUData.c">
+			<Option target="14"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/14/ProcMCUData.h">
+			<Option target="14"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/14/SendCmdToMCU.c">
+			<Option target="14"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/14/SendCmdToMCU.h">
+			<Option target="14"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/14/模拟主机发送与数据接收1.png">
+			<Option target="14"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/14/模拟主机发送与数据接收2.png">
+			<Option target="14"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/14/模拟主机发送与数据接收3.png">
+			<Option target="14"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/Test/Test.c">
+			<Option target="Test_3"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/Test/test1.c">
+			<Option target="Test_3"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/Test/test1.h">
+			<Option target="Test_3"/>
+		</Unit>
+		<Unit filename="D:/software/CLionProjects/Clanguage/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
